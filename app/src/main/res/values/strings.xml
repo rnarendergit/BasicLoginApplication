@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basic Login Application</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="user_name_error_message">Invalid email address</string>
+    <string name="password_error_message">Choose a password with More than 5 letters</string>
+
+</resources>
